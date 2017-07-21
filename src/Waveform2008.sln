@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Waveform", "Waveform\Waveform2008.vcproj", "{E407814A-6C09-495D-910E-8268F1D62631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E407814A-6C09-495D-910E-8268F1D62631}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E407814A-6C09-495D-910E-8268F1D62631}.Debug|Win32.Build.0 = Debug|Win32
+		{E407814A-6C09-495D-910E-8268F1D62631}.Release|Win32.ActiveCfg = Release|Win32
+		{E407814A-6C09-495D-910E-8268F1D62631}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
