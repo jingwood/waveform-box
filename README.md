@@ -8,3 +8,7 @@ Main Window
 ![Main Window](http://necotech.org/wp-content/uploads/2017/07/waveform-box.png)
 
 ![Wave Generation](http://necotech.org/wp-content/uploads/2017/07/wavegen.png)
+
+# Relation Documentation
+
+- [A document describes the .wav file format](http://necotech.org/archives/657) (Japanese)
