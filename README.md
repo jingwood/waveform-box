@@ -9,6 +9,6 @@ Main Window
 
 ![Wave Generation](http://necotech.org/wp-content/uploads/2017/07/wavegen.png)
 
-# Relation Documentation
+# Associated documentation
 
-- [A document describes the .wav file format](http://necotech.org/archives/657) (Japanese)
+- [A document describes the .wav file format](http://necotech.org/archives/657) (In Japanese)
