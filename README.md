@@ -5,9 +5,9 @@ Waveform sound playground application for Windows. Generating waveform from spec
 
 Main Window
 
-![Main Window](http://necotech.org/wp-content/uploads/2017/07/waveform-box.png)
+![Main Screen](snapsoht/main-screen.png)
 
-![Wave Generation](http://necotech.org/wp-content/uploads/2017/07/wavegen.png)
+![Wave Generation](snapshot/gen-wave-screen.png)
 
 # Associated documentation
 
